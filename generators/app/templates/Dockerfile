@@ -1,6 +1,6 @@
 FROM node:slim
 
-MAINTAINER Eugene Obrezkov <ghaiklor@gmail.com>
+MAINTAINER Baker Shamlan <root@baker.io>
 
 RUN mkdir /app
 VOLUME ["/app"]

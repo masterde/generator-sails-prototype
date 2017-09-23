@@ -3,7 +3,5 @@
     "modules": {
     }
   },
-  "hooks": {
-    "swagger": false
-  }
+  "hooks": {}
 }
